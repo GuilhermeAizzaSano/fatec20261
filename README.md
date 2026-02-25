@@ -1,2 +1,1 @@
-ECHO est  ativado.
-ECHO est  ativado.
+"" 
